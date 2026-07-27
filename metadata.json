@@ -1,0 +1,6 @@
+{
+  "name": "Zephtrix Studio",
+  "description": "A premium, cinematic, and highly interactive 3D website for Zephtrix Studio, a high-end digital agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
